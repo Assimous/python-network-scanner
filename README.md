@@ -17,19 +17,18 @@ A fast, multi-threaded network scanner built in Python. Unlike basic port scanne
 
 ### Prerequisites
 You need Python 3 installed and the `rich` library for the interface.
-```bash
+
 pip install rich
 
-## Usage
+##  Usage
 Clone the repository and run the script:
 
-git clone [https://github.com/Assimous/python-network-scanner.git](https://github.com/Assimous/python-network-scanner.git)
+git clone https://github.com/Assimous/python-network-scanner.git
 cd python-network-scanner
 python scanner.py
 
-### Disclaimer
+###  Disclaimer
 This tool is for educational purposes and ethical hacking ONLY. Ensure you have explicit permission before scanning any network or system.
 
-
-## Author
+##  Author
 Assimous - Initial work & improvements
